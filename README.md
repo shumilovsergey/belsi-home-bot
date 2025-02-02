@@ -1,2 +1,2 @@
-# belsi-home-bot
-belsi-home-bot
+# template-django-tailwind
+here is my django tailwind template
